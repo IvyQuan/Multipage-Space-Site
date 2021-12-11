@@ -1,0 +1,63 @@
+
+
+
+a:visited{
+color: rbg(240, 252, 255);
+}
+
+
+nav a:hover{
+  background-color:rgba(170, 219, 192, 0.747);
+ color:beige;
+}
+
+a:active{
+ 
+ background-color:#033696;
+  color: rgb(210, 237, 247);
+}
+
+body{
+  background-image: url("https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg");
+ background-repeat:no-repeat;
+  background-size:cover;
+}
+
+h1, a, p, ul, h2{
+  color:white;
+}
+
+h1, p::first-letter{
+  font-size:1.5em;
+}
+
+main{
+font-family:"Times New Roman";
+width:95%;
+margin-right:auto;
+line-height:25px;
+}
+
+nav a{
+  text-decoration:none;
+  margin:20px;
+}
+
+a[target="_blank"] {
+  color:rgb(210, 245, 226);
+  background-color:rgba(130, 187, 252, 0.507);
+}
+
+img{
+  width:40%;
+  margin:30px;
+}
+
+
+h2{
+  background-color:#4108778e;
+}
+
+#linkforvids{
+ color:rgba(112, 175, 121, 0.753);
+}
